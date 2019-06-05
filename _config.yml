@@ -42,8 +42,8 @@ paginate_path: /page:num
 timezone:      null
 
 #Site config
-title: handong1587
-description: handong1587's blog
+title: luzepu
+description: luzepu's blog
 keywords: Deep Learning
 url: https://luzepu.github.io
 feed: /atom.xml
@@ -66,14 +66,14 @@ nav:
 
 #Author config
 author:
-    name: handong1587
-    email: handong1587@gmail.com
+    name: luzepu
+    email: luzepu@nuaa.edu.cn
     imageLink: /images/header2.jpg
-    simpleIntro: Hi world~
+    simpleIntro: Hello world~
     detailIntro:
       <p>I am working as machine learning/deep learning engineer.</p>
       <p>This blog is used to organise interesting papers, projects, websites, blogs and my reading/study notes.</p>
-      <p>Feel free to send PRs or open issues to help maintain this blog&#58; https://github.com/handong1587/handong1587.github.io</p>
+      <p>Feel free to send PRs or open issues to help maintain this blog&#58; https://github.com/luzepu/luzepu.github.io</p>
       <p></p>
 
 #You can choose your icon by http://fortawesome.github.io/Font-Awesome/icons/#brand
@@ -85,7 +85,7 @@ follow:
   - class: icon-facebook
     url: https://www.facebook.com/
   - class: icon-github-alt
-    url: https://github.com/handong1587/
+    url: https://github.com/luzepu/
   - class: icon-twitter
     url: https://www.twitter.com/
   - class: icon-google-plus
