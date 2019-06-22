@@ -7,6 +7,7 @@ keywords: Links
 
 <div class="article">
     <h3 class="title">{{ page.title }}</h3>
+
     <div class="links">
         {% for i in site.customLinks %}
         <h4 class="links-category fn-clear">{{ i.message }}</h4>
@@ -17,6 +18,7 @@ keywords: Links
         </ul>
         {% endfor %}
     </div>
+
     <div class="comment">
         {% if site.disqus.config %}
         <div id="disqus_thread"></div>

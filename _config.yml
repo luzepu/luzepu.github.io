@@ -69,7 +69,7 @@ author:
     name: luzepu
     email: luzepu@nuaa.edu.cn
     imageLink: /images/header2.jpg
-    simpleIntro: Hello world~
+    simpleIntro: Rollback
     detailIntro:
       <p>I am working as machine learning/deep learning engineer.</p>
       <p>This blog is used to organise interesting papers, projects, websites, blogs and my reading/study notes.</p>
@@ -93,18 +93,23 @@ follow:
 
 #Links
 customLinks:
+#  - item:
+#    - text: Caffe on github
+#      url: https://github.com/BVLC/caffe
+#
+#    - text: Deep Learning Tutorials
+#      url: http://deeplearning.net/tutorial/
+#
+#    - text: Deep Learning Reading List
+#      url: http://deeplearning.net/reading-list/
+#
+#    message: About Deep Learning
   - item:
-    - text: Caffe on github
-      url: https://github.com/BVLC/caffe
-    - text: Deep Learning Tutorials
-      url: http://deeplearning.net/tutorial/
-    - text: Deep Learning Reading List
-      url: http://deeplearning.net/reading-list/
-    message: About Deep Learning
-  - item:
-    - text: 爱可可-爱生活
-      url: http://weibo.com/fly51fly
-    message: Resources
+    - text: kedixa
+      url: blog.kedixa.top
+    - text: shomy
+      url: shomy.top
+    message: Friends
 
 googleAnaly:
   config: false
